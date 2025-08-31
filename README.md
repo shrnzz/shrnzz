@@ -1,6 +1,6 @@
 ## Hello, I'm Sahar Naz 🌸
 
-📚Student at RVCC finishing up CS-programming degree. Looking forward to using my skills and knowledge to create something cool!
+📚Student at RVCC finishing up my CS-programming degree. Looking forward to using my skills and knowledge to create something cool!
 
 - 📝 I’m currently working on building my own website!
 - 🌱 I’m currently learning C programming and Java.
