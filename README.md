@@ -4,6 +4,6 @@
 
 - 📝 I’m currently working on building my own website!
 - 🌱 I’m currently learning C programming and Java.
-- 📃 Some things I enjoy doing include, cooking, eating, traveling, hiking, gardeing and pixel art 🎨
-- My cat enjoys watching me work. When i'm not looking she'll tap her paws on the keyboard or mouse 🐈‍⬛
+- 📃 Some things I enjoy doing include, cooking, traveling, hiking, gardeing and pixel art 🎨
+- Cat lover :octocat:
 
